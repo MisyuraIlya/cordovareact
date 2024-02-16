@@ -40,7 +40,7 @@ if(window.cordova) {
 
 
 10. add from the cordova index.html to react index.html the meta and script below
-
+11. npm run build
 
 dependencies  Gradle 7.6
  java 8
